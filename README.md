@@ -18,7 +18,7 @@ This repository is your destination for an added challenge. Inside the readme fi
 
 [Intro to TidyTuesday + Posit's Python Challenge](https://youtu.be/gCSkxt4omKo?feature=shared)  
 
-[Creating a simpe dashboard with Python + Quarto](https://youtu.be/uLGe9zuuNl0?feature=shared)  
+[Creating a simple dashboard with Python + Quarto](https://youtu.be/uLGe9zuuNl0?feature=shared)  
 
 
 <!--a href="https://www.youtube.com/watch?v=gCSkxt4omKo"><img src="https://img.youtube.com/vi/gCSkxt4omKo/maxresdefault.jpg" align="left" height="200" alt="ALT TEXT GOES HERE" /></a-->
