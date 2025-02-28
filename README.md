@@ -20,13 +20,9 @@ To participate, share your efforts, big or small, to your community of choice, a
 
 [Intro to TidyTuesday + Posit's PydyTuesday Initiative](https://youtu.be/gCSkxt4omKo)  
 
-[Get Data from the TidyTuesday Repo + Posit Python Initiative](https://youtu.be/ol2FrSL5gVU?si=9NUMW1S2FqIAKpZ_)
+[Get Data from the TidyTuesday Repo using Python](https://youtu.be/ol2FrSL5gVU?si=9NUMW1S2FqIAKpZ_)
 
 [Create a simple dashboard with Python + Quarto](https://youtu.be/uLGe9zuuNl0?feature=shared)  
 
 [Deploy your work to Posit Connect Cloud](https://youtu.be/WD693FBfVUk?si=XkgnfXksqmBRc2OW)
 
-
-<!--a href="https://www.youtube.com/watch?v=gCSkxt4omKo"><img src="https://img.youtube.com/vi/gCSkxt4omKo/maxresdefault.jpg" align="left" height="200" alt="ALT TEXT GOES HERE" /></a-->
-<!--a href="https://www.youtube.com/watch?v=gCSkxt4omKo"><img src="images/isabel_thumb.png" align="left" height="200" alt="Thumbnail image of a Posit video introducing TidyTuesday and the Python Challenge" /></a-->
-<!--a href="https://www.youtube.com/watch?v=uLGe9zuuNl0"><img src="https://img.youtube.com/vi/uLGe9zuuNl0/maxresdefault.jpg" align="left" height="200" alt="Thumbnail image of a Posit video showing how to create a dashboard using Python and Quarto" /></a--> 
