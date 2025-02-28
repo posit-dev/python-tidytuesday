@@ -18,7 +18,7 @@ To participate, share your efforts, big or small, to your community of choice, a
 
 **We love the data community.** We can't wait for you to share your work with the most brilliant and supportive community out there, and we want to support you in your journey, too. Here are some resources to get you going!  
 
-[Intro to TidyTuesday + Posit's PydyTuesday Initiative](https://youtu.be/gCSkxt4omKo?feature=shared)  
+[Intro to TidyTuesday + Posit's PydyTuesday Initiative](https://youtu.be/gCSkxt4omKo)  
 
 [Get Data from the TidyTuesday Repo + Posit Python Initiative](https://youtu.be/ol2FrSL5gVU?si=9NUMW1S2FqIAKpZ_)
 
