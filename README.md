@@ -1,4 +1,4 @@
-# PydyTuesday: a Posit collaboration with TidyTuesday 🎉 <a href="https://posit.co"><img src="images/posit_round_logo.png" align="right" height="138" alt="Posit" /></a>
+# PydyTuesday: A Posit collaboration with TidyTuesday 🎉 <a href="https://posit.co"><img src="images/posit_round_logo.png" align="right" height="138" alt="Posit" /></a>
 
 ### Resources for participating in TidyTuesday using Python
 
