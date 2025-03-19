@@ -2,7 +2,7 @@
 
 ### Resources for participating in TidyTuesday using Python
 
-If you **didn't** get here via [the official TidyTuesday github repo](https://github.com/rfordatascience/tidytuesday), we encourage you to go check it out first. It's a weekly data science challenge run by the [Data Science Learning Community](https://dslc.io/), with a new data set added each week. 
+If you **didn't** get here via [the official TidyTuesday github repo](https://github.com/rfordatascience/tidytuesday?tab=readme-ov-file#datasets), we encourage you to go check it out first. It's a weekly data science challenge run by the [Data Science Learning Community](https://dslc.io/), with a new data set added each week. 
 
 This repository is a place to find resources that will help you explore the TidyTuesday experience in Python. Inside the readme file of each week's TidyTuesday data set, you'll see our invitation: can you create something in python that explore this week's data? It could be a quick plot, or a model, or you could use this opportunity to test out a new package. Could you create a Quarto dashboard that communicates insights about this week's data set?  
 
