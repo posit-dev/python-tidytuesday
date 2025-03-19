@@ -9,11 +9,13 @@ This repository is a place to find resources that will help you explore the Tidy
 To participate, share your efforts, big or small, to your community of choice, and don't forget to tag us using the hashtags **#TidyTuesday** and **#PydyTuesday** so that we can highlight your work!
 
 ### Here's where you can tag us when you share your submissions!
-<a href="https://pos.it/facebook"><img src="images/facebook-logo_lightblue.svg" height="25" alt="Posit Facebook" /></a>&nbsp;
+<a href="https://pos.it/facebook"><img src="images/facebook-logo_lightblue.svg" height="25" alt="Posit Facebook" /></a>
 <a href="https://fosstodon.org/@posit"><img src="images/fosstadon-logo_lightblue.svg" height="25" alt="Posit Mastodon" /></a>&nbsp;
 <a href="https://pos.it/instagram"><img src="images/instagram-logo_lightblue.svg" height="25" alt="Posit Instagram" /></a>&nbsp;
 <a href="https://pos.it/linkedin"><img src="images/linkedin-logo_lightblue.svg" height="25" alt="Posit LinkedIn" /></a>&nbsp;
 <a href="https://bsky.app/profile/posit.co"><img src="images/bluesky-lightblue.svg" height="25" alt="Posit Bluesky" /></a>
+<a href="https://www.tiktok.com/@posit_pbc"><img src="images/tiktok-logo.png" height="25" alt="Posit TikTok" /></a>
+
 
 
 **We love the data community.** We can't wait for you to share your work with the most brilliant and supportive community out there, and we want to support you in your journey, too. Here are some resources to get you going!  
