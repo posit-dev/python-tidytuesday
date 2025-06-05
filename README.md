@@ -20,9 +20,13 @@ To participate, share your efforts, big or small, to your community of choice, a
 
 **We love the data community.** We can't wait for you to share your work with the most brilliant and supportive community out there, and we want to support you in your journey, too. Here are some resources to get you going!  
 
-[Intro to TidyTuesday + Posit's PydyTuesday Initiative](https://youtu.be/gCSkxt4omKo)  
+[Welcome to PydyTuesday! | How to Level Up your Python Skills](https://youtu.be/gCSkxt4omKo](https://www.youtube.com/watch?v=kRfYVtwg4dE&list=PL9HYL-VRX0oTWuJfkuIeaqXgxcoJWJGSC&index=1)) 
 
-[Get Data from the TidyTuesday Repo using Python](https://youtu.be/ol2FrSL5gVU?si=9NUMW1S2FqIAKpZ_)
+[Let's set up your Python environment with only 2 steps | PydyTuesday Python Projects](https://www.youtube.com/watch?v=9i7rCSL5EVM&list=PL9HYL-VRX0oTWuJfkuIeaqXgxcoJWJGSC&index=2)
+
+[Let's install your first Python library in 2 minutes](https://www.youtube.com/watch?v=WkKWsrf_2TI&list=PL9HYL-VRX0oTWuJfkuIeaqXgxcoJWJGSC&index=3)
+
+[Let's Import Free, High-Quality Datasets into your Python IDE (using Positron and PydyTuesday)](https://www.youtube.com/watch?v=QkUC-Ok3sMA&list=PL9HYL-VRX0oTWuJfkuIeaqXgxcoJWJGSC&index=4)
 
 [Create a simple dashboard with Python + Quarto](https://youtu.be/uLGe9zuuNl0?feature=shared)  
 
